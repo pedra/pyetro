@@ -1,0 +1,13 @@
+.env
+/node_modules
+public/sw.js
+/.vs
+/file
+/log
+/functions
+/public/media/user
+sync.bat
+/.vscode
+/public/js
+sftp-config.json
+/public/css
